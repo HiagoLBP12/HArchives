@@ -1,0 +1,32 @@
+ .banner img{
+    width: 100%;
+    height: 250px;
+}
+body{
+    background-color: rgb(138, 0, 0);
+}
+.banner2 img{
+width: 200px;
+height: 200px;
+}
+.text {
+    background-color: gray;
+    font-size: 20px;
+   
+}
+.tabela{
+    
+
+}
+.titulo p{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(156, 156, 156)
+}
+.final{
+    font-size: 30px;
+}
+ 
+.bio{
+    font-size: 20px;
+}
